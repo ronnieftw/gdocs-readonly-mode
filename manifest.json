@@ -2,7 +2,7 @@
   "manifest_version": 3,
 
   "name": "Google View Mode",
-  "description": "Auto-switches Google Docs into Viewing mode. Click the icon to toggle the extension on/off.",
+  "description": "Auto-switches Google Docs into Viewing mode. Pin the extension to the toolbar and click the icon to toggle the extension on/off.",
   "version": "1.0",
 
   "background": {
