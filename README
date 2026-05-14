@@ -5,4 +5,4 @@ To install:
 
 - Open chrome://extensions/ in Chrome
 - Tick the Developer mode checkbox
-- Click the "Load unpacked extension" button and select the `google-view-only` directory 
+- Click the "Load unpacked extension" button and select the `gdocs-readonly-mode` directory
